@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# SJTU_2021-2022-2_MATH6013
 
-You can use the [editor on GitHub](https://github.com/grwei/SJTU_2021-2022-2_MATH6013/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+研-MATH6013-M01-应用近世代数（2022春）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [课程主页](https://grwei.github.io/SJTU_2021-2022-2_MATH6013/)
+- [个人主页](https://grwei.github.io/)
 
-### Markdown
+## Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Homework
 
-```markdown
-Syntax highlighted code block
+- [Homework 1] (2022-03-)
+- [Homework 2](https://grwei.github.io/SJTU_2021-2022-2_MATH6013/hw2_危国锐_120034910021.pdf) (2022-03-21)
+- [Homework 3](https://grwei.github.io/SJTU_2021-2022-2_MATH6013/hw3_危国锐_120034910021.pdf) (2022-04-04)
+- [Homework 4](https://grwei.github.io/SJTU_2021-2022-2_MATH6013/hw4_危国锐_120034910021.pdf) (2022-04-18)
+- [Homework 5](https://grwei.github.io/SJTU_2021-2022-2_MATH6013/hw5_危国锐_120034910021.pdf) (2022-05-02)
+- [Homework 6](https://grwei.github.io/SJTU_2021-2022-2_MATH6013/hw6_危国锐_120034910021.pdf) (2022-05-18)
 
-# Header 1
-## Header 2
-### Header 3
+## Contact Information
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grwei/SJTU_2021-2022-2_MATH6013/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Guorui Wei (危国锐)
+- E-mail: 313017602@qq.com; weiguorui@sjtu.edu.cn

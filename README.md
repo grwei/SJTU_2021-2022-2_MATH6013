@@ -2,7 +2,7 @@
 
 研-MATH6013-M01-应用近世代数（2022春）
 
-- [课程主页](https://grwei.github.io/SJTU_2021-2022-2_MS8401/)
+- [课程主页](https://grwei.github.io/SJTU_2021-2022-2_MATH6013/)
 - [个人主页](https://grwei.github.io/)
 
 ## Contents
